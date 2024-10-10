@@ -1,0 +1,1 @@
+{"version":3,"names":["_reactNativeAdjust","require","_default","Adjust","resetSessionPartnerParameters","exports","default"],"sourceRoot":"../../../src","sources":["methods/reset.ts"],"mappings":";;;;;;AAAA,IAAAA,kBAAA,GAAAC,OAAA;AAA6C,IAAAC,QAAA,GAE9BA,CAAA,KAAM;EACnBC,yBAAM,CAACC,6BAA6B,CAAC,CAAC;AACxC,CAAC;AAAAC,OAAA,CAAAC,OAAA,GAAAJ,QAAA"}

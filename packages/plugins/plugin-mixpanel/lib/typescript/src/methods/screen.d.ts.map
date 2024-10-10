@@ -1,0 +1,1 @@
+{"version":3,"file":"screen.d.ts","sourceRoot":"","sources":["../../../../src/methods/screen.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,uBAAuB,CAAC;AACtD,OAAO,KAAK,EAAE,eAAe,EAAW,MAAM,iCAAiC,CAAC;AAChF,OAAO,KAAK,EAAE,uBAAuB,EAAE,MAAM,UAAU,CAAC;gCAK/C,eAAe,YACZ,QAAQ,YACR,uBAAuB;AAHnC,wBAoCE"}

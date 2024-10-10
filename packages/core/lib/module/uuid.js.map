@@ -1,0 +1,1 @@
+{"version":3,"names":["v4","uuidv4","getUUID","UUID","toString"],"sourceRoot":"../../src","sources":["uuid.ts"],"mappings":"AAAA,OAAO,gCAAgC;AACvC,SAASA,EAAE,IAAIC,MAAM,QAAQ,MAAM;AAEnC,OAAO,MAAMC,OAAO,GAAGA,CAAA,KAAc;EACnC,MAAMC,IAAI,GAAGF,MAAM,CAAC,CAAC,CAACG,QAAQ,CAAC,CAAC;EAChC,OAAOD,IAAI;AACb,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"BrazeMiddlewarePlugin.d.ts","sourceRoot":"","sources":["../../../src/BrazeMiddlewarePlugin.tsx"],"names":[],"mappings":"AAAA,OAAO,EACL,MAAM,EACN,UAAU,EAEV,YAAY,EAEb,MAAM,iCAAiC,CAAC;AAEzC,qBAAa,qBAAsB,SAAQ,MAAM;IAC/C,IAAI,aAAqB;IACzB,GAAG,SAAY;IACf,OAAO,CAAC,cAAc,CAAwC;IAE9D,OAAO,CAAC,KAAK,EAAE,YAAY,GAAG,YAAY,GAAG,SAAS;CAwBvD"}

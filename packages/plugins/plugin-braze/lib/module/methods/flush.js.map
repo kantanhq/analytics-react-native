@@ -1,0 +1,1 @@
+{"version":3,"names":["Braze","requestImmediateDataFlush"],"sourceRoot":"../../../src","sources":["methods/flush.ts"],"mappings":"AAAA,OAAOA,KAAK,MAAM,yBAAyB;AAE3C,gBAAe,MAAM;EACnBA,KAAK,CAACC,yBAAyB,CAAC,CAAC;AACnC,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"AdvertisingIdPlugin.d.ts","sourceRoot":"","sources":["../../../src/AdvertisingIdPlugin.ts"],"names":[],"mappings":"AAAA,OAAO,EACL,MAAM,EACN,UAAU,EACV,aAAa,EAId,MAAM,iCAAiC,CAAC;AAQzC,qBAAa,mBAAoB,SAAQ,MAAM;IAC7C,IAAI,aAAyB;IAE7B,SAAS,CAAC,SAAS,EAAE,aAAa,GAAG,IAAI;IAgCnC,UAAU,CAAC,EAAE,EAAE,MAAM,GAAG,OAAO,CAAC,IAAI,CAAC;CAgB5C"}

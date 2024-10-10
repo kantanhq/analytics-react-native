@@ -1,0 +1,1 @@
+{"version":3,"names":["Branch","event","userId","undefined","setIdentity"],"sourceRoot":"../../../src","sources":["methods/identify.ts"],"mappings":"AAAA,OAAOA,MAAM,MAAM,qBAAqB;AAGxC,gBAAgBC,KAAwB,IAAK;EAC3C,MAAMC,MAAM,GAAGD,KAAK,CAACC,MAAM;EAC3B,IAAIA,MAAM,KAAKC,SAAS,EAAE;IACxBH,MAAM,CAACI,WAAW,CAACF,MAAM,CAAC;EAC5B;AACF,CAAC"}

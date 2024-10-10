@@ -1,0 +1,1 @@
+{"version":3,"file":"ClevertapPlugin.d.ts","sourceRoot":"","sources":["../../../src/ClevertapPlugin.ts"],"names":[],"mappings":"AAAA,OAAO,EACL,iBAAiB,EACjB,UAAU,EACV,cAAc,EACd,eAAe,EACf,iBAAiB,EAElB,MAAM,iCAAiC,CAAC;AAMzC,qBAAa,eAAgB,SAAQ,iBAAiB;IACpD,IAAI,aAA0B;IAC9B,GAAG,SAAe;IAElB,QAAQ,CAAC,KAAK,EAAE,iBAAiB;IAmCjC,KAAK,CAAC,KAAK,EAAE,cAAc;IAc3B,MAAM,CAAC,KAAK,EAAE,eAAe;CAQ9B"}

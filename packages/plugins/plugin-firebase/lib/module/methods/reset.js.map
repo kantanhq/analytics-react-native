@@ -1,0 +1,1 @@
+{"version":3,"names":["firebaseAnalytics","resetAnalyticsData"],"sourceRoot":"../../../src","sources":["methods/reset.ts"],"mappings":"AAAA,OAAOA,iBAAiB,MAAM,kCAAkC;AAEhE,gBAAe,YAAY;EACzB,MAAMA,iBAAiB,CAAC,CAAC,CAACC,kBAAkB,CAAC,CAAC;AAChD,CAAC"}

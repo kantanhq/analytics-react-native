@@ -1,0 +1,1 @@
+{"version":3,"file":"parameterMapping.d.ts","sourceRoot":"","sources":["../../../src/parameterMapping.ts"],"names":[],"mappings":"AAEA,eAAO,MAAM,aAAa,EAAE,MAAM,CAAC,MAAM,EAAE,MAAM,CAUhD,CAAC;AAEF,eAAO,MAAM,aAAa,EAAE;IAAE,CAAC,GAAG,EAAE,MAAM,GAAG,MAAM,CAAA;CAYlD,CAAC;AAEF,eAAO,MAAM,YAAY,EAAE;IAAE,CAAC,GAAG,EAAE,MAAM,GAAG,CAAC,KAAK,EAAE,OAAO,KAAK,OAAO,CAAA;CAiBtE,CAAC"}

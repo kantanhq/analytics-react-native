@@ -1,0 +1,1 @@
+{"version":3,"file":"startup-flush-policy.d.ts","sourceRoot":"","sources":["../../../../src/flushPolicies/startup-flush-policy.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,YAAY,EAAE,MAAM,UAAU,CAAC;AAC7C,OAAO,EAAE,eAAe,EAAE,MAAM,SAAS,CAAC;AAE1C;;GAEG;AACH,qBAAa,kBAAmB,SAAQ,eAAe;;IAMrD,KAAK,IAAI,IAAI;IAIb,OAAO,CAAC,MAAM,EAAE,YAAY,GAAG,IAAI;CAGpC"}
